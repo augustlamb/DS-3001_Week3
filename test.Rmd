@@ -1,0 +1,15 @@
+---
+title: "test"
+author: "August Lamb (abl6ywp)"
+date: "9/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+print("I'm Learning to Use Github...Boom.")
+```
+
